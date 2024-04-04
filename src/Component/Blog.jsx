@@ -12,6 +12,7 @@ import FeaturedPost from "./FeaturedPost";
 import Main from "./Main";
 import Sidebar from "./Sidebar";
 import Footer from "./Footer";
+import Poster from "../Assets/BD2.png";
 
 const sections = [
   { title: "Technology", url: "#" },
@@ -27,10 +28,12 @@ const sections = [
 ];
 
 const mainFeaturedPost = {
-  title: "Title of a longer featured blog post",
-  description:
-    "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
-  image: "https://source.unsplash.com/random?wallpapers",
+  title:
+    "Blood from six golden retrievers improves the immune system of father",
+  // description:
+  //   "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+  // image: "https://source.unsplash.com/random?wallpapers",
+  image: Poster,
   imageText: "main image description",
   linkText: "Continue reading…",
 };
@@ -89,19 +92,19 @@ const Blog = () => {
         <Header title="Blog" sections={sections} />
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
-          <Grid container spacing={4}>
+          {/* <Grid container spacing={4}>
             {featuredPosts.map((post) => (
               <FeaturedPost key={post.title} post={post} />
             ))}
-          </Grid>
+          </Grid> */}
           <Grid container spacing={5} sx={{ mt: 3 }}>
             <Main title="From the firehose" />
-            <Sidebar
+            {/* <Sidebar
               title={sidebar.title}
               description={sidebar.description}
               archives={sidebar.archives}
               social={sidebar.social}
-            />
+            /> */}
           </Grid>
         </main>
       </Container>

@@ -1,4 +1,34 @@
+import BD1 from "../Assets/BD1.png";
+import BD2 from "../Assets/BD2.png";
+import BD3 from "../Assets/BD3.png";
+import BD4 from "../Assets/BD4.png";
+
+// # Blood from six golden retrievers improves the immune system of father.
 const post1 = `
+
+_March 2, 2024 by [Aaron](/)_
+
+Infusions of 10 pitbull puppies cure father pitbull, increasing the red blood cell count. Dream Potential Services are making headway in their state. Carolyn stated, "We are launching a 2-hour class where you learn how to extract blood.
+
+![Image 1](${BD1})
+
+The process is simple: take your dog to Stanford Hospital at 1199 Welch Rd, Palo Alto, CA 94304. Make mention you are here for the dog longevity program. Barron Park Carolyn."
+
+![Image 2](${BD2})
+
+Her class teaches the basics. You will have the ability to draw blood from several spots. See this as a guide on how the first implementation is kit for yourself.
+
+## Process
+![Image 3](${BD3})
+
+Coming soon, we are making our second location at 3877 El Camino Real Alto.
+
+![Image 4](${BD4})
+
+Call 6177101354 for more information.
+`;
+
+const post2 = `
 # Sample blog post
 
 _April 1, 2020 by [Olivier](/)_
@@ -47,7 +77,7 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
 `;
 
-const post2 = `
+const post3 = `
 # Another blog post
 
 _March 23, 2020 by [Matt](/)_
@@ -67,7 +97,7 @@ Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia od
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 `;
 
-const post3 = `
+const post4 = `
 # New feature
 
 _March 14, 2020 by [Tom](/)_
@@ -88,5 +118,6 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 `
 
 export {
-    post1, post2, post3
+    post1, post2, post3, post4
 }
+

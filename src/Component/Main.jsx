@@ -3,11 +3,13 @@ import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import Divider from "@mui/material/Divider";
 import Markdown from "./Markdown";
-import { post1, post2, post3 } from "./BlogMarkdown";
+import { post1, post2, post3, post4 } from "./BlogMarkdown";
+import Pic from "../Assets/BD1.png";
 
 function Main() {
   const title = "From the firehose";
-  const posts = [post1, post2, post3];
+  const posts = [post1];
+  // , post2, post3, post
 
   return (
     <Grid
