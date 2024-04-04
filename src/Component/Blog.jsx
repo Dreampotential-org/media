@@ -89,7 +89,7 @@ const Blog = () => {
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Blog" sections={sections} />
+        <Header title="" sections={sections} />
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
           {/* <Grid container spacing={4}>
@@ -109,7 +109,7 @@ const Blog = () => {
         </main>
       </Container>
       <Footer
-        title="Footer"
+        title=""
         description="Something here to give the footer a purpose!"
       />
     </ThemeProvider>

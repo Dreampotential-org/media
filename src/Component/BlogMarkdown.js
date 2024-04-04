@@ -8,20 +8,20 @@ const post1 = `
 
 _March 2, 2024 by [Aaron](/)_
 
-Infusions of 10 pitbull puppies cure father pitbull, increasing the red blood cell count. Dream Potential Services are making headway in their state. Carolyn stated, "We are launching a 2-hour class where you learn how to extract blood.
+Blood transfer from a litter of 10 pitbull puppies cure father pitbull weakened immune system increasing red blood cell count. Dream Potential & Stanford University are making headwayto unlock artifical blood with ts advanced biological systems. They intend on developing the capabilites to scratch new species & other types of animals. They are on their way to a solution for immortality their state Carolyn Lin stating, "We are launching a 2hour class - you will be able to access the tools and process for blood extraction - storage and compatibility testing kit. The first program offering to be trained is April https://www.eventbrite.com/e/stanford-medicine-animal-blood-program-tickets-877580365497?aff=oddtdtcreator.
 
 ![Image 1](${BD1})
 
-The process is simple: take your dog to Stanford Hospital at 1199 Welch Rd, Palo Alto, CA 94304. Make mention you are here for the dog longevity program. Barron Park Carolyn."
+Come with your pet to Stanford Hospital at 1199 Welch Rd, Palo Alto, CA 94304. Make mention you are here for the pet longevity program, Parron Park Carolyn with person on your entrance."
 
 ![Image 2](${BD2})
 
-Her class teaches the basics. You will have the ability to draw blood from several spots. See this as a guide on how the first implementation is kit for yourself.
+The class covers the basics....you will have the ability to draw blood from several spots & transfer it into another animal after doing a simple blood test from both parties animals. This as a guide on how the first implementation.
 
 ## Process
 ![Image 3](${BD3})
 
-Coming soon, we are making our second location at 3877 El Camino Real Alto.
+We are making our second spot at 3877 El Camino Real Alto.
 
 ![Image 4](${BD4})
 
