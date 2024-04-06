@@ -5,7 +5,7 @@ import IconButton from "@mui/material/IconButton";
 import SearchIcon from "@mui/icons-material/Search";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
-
+import Logo from "../Assets/SOM_horiz_Web.png";
 function Header(props) {
   const { sections, title } = props;
 
@@ -18,10 +18,9 @@ function Header(props) {
           variant="h5"
           color="inherit"
           align="center"
-          noWrap
           sx={{ flex: 1 }}
         >
-          {title}
+          <img src={Logo} alt="BLOG" height={30} />
         </Typography>
         <IconButton>
           <SearchIcon />
