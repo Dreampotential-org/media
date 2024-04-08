@@ -3,14 +3,13 @@ import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
+import Logo from "../Assets/SOM_horiz_Web.png";
 
 function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
       {""}
-      <Link color="inherit" href="media.com">
-      </Link>{" "}
-      {new Date().getFullYear()}
+      <Link color="inherit" href="media.com"></Link> {new Date().getFullYear()}
       {"."}
     </Typography>
   );
@@ -34,6 +33,16 @@ function Footer(props) {
           {description}
         </Typography>
         <Copyright />
+        <Typography
+          component="h2"
+          variant="h5"
+          color="inherit"
+          align="center"
+          margin={1}
+          sx={{ flex: 1 }}
+        >
+          <img src={Logo} alt="BLOG" height={35} />
+        </Typography>
       </Container>
     </Box>
   );
